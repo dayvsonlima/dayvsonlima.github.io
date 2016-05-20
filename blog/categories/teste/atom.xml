@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: teste | Dayvson Lima]]></title>
-  <link href="http://dayvsonlima.github.io/blog/categories/teste/atom.xml" rel="self"/>
-  <link href="http://dayvsonlima.github.io/"/>
-  <updated>2016-05-20T02:05:42-03:00</updated>
-  <id>http://dayvsonlima.github.io/</id>
+  <link href="http://dayvsonlima.com.br/blog/categories/teste/atom.xml" rel="self"/>
+  <link href="http://dayvsonlima.com.br/"/>
+  <updated>2016-05-20T02:26:45-03:00</updated>
+  <id>http://dayvsonlima.com.br/</id>
   <author>
     <name><![CDATA[Dayvson Lima]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Git init]]></title>
-    <link href="http://dayvsonlima.github.io/blog/2016/05/20/git-init/"/>
+    <link href="http://dayvsonlima.com.br/blog/2016/05/20/git-init/"/>
     <updated>2016-05-20T00:54:00-03:00</updated>
-    <id>http://dayvsonlima.github.io/blog/2016/05/20/git-init</id>
+    <id>http://dayvsonlima.com.br/blog/2016/05/20/git-init</id>
     <content type="html"><![CDATA[<p>Este é o início do meu blog. Sim resolvi fazer um blog, não não gosto de &hellip;</p>
 ]]></content>
   </entry>
