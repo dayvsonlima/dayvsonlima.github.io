@@ -4,7 +4,7 @@
   <title><![CDATA[Dayvson Lima]]></title>
   <link href="http://dayvsonlima.com.br/atom.xml" rel="self"/>
   <link href="http://dayvsonlima.com.br/"/>
-  <updated>2016-05-20T02:26:45-03:00</updated>
+  <updated>2016-05-20T02:39:09-03:00</updated>
   <id>http://dayvsonlima.com.br/</id>
   <author>
     <name><![CDATA[Dayvson Lima]]></name>
@@ -18,7 +18,9 @@
     <link href="http://dayvsonlima.com.br/blog/2016/05/20/git-init/"/>
     <updated>2016-05-20T00:54:00-03:00</updated>
     <id>http://dayvsonlima.com.br/blog/2016/05/20/git-init</id>
-    <content type="html"><![CDATA[<p>Este é o início do meu blog. Sim resolvi fazer um blog, não não gosto de &hellip;</p>
+    <content type="html"><![CDATA[<p>Olá, me chamo Dayvson Lima e este é o meu blog. Pretendo usar este espaço para compartilhar não só coisas sober programação que é minha especialidade, mas também qualquer outro assunto que eu achar interessante e que possa de alguma forma ajudar as pessoas que estarão lendo.</p>
+
+<p>Sinceramente não sei se este projeto dará certo, mas prometo que irei postar muita coisa boa! Então é só aguardar ;)</p>
 ]]></content>
   </entry>
   
