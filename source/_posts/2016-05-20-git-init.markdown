@@ -1,9 +1,0 @@
----
-layout: post
-title: "Git init"
-date: 2016-05-20 00:54:00 -0300
-comments: true
-categories: [Teste]
----
-
-Este é o início do meu blog. Sim resolvi fazer um blog, não não gosto de ...
