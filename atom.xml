@@ -4,7 +4,7 @@
   <title><![CDATA[Dayvson Lima]]></title>
   <link href="http://dayvsonlima.github.io/atom.xml" rel="self"/>
   <link href="http://dayvsonlima.github.io/"/>
-  <updated>2016-05-20T03:08:21-03:00</updated>
+  <updated>2016-05-20T03:14:10-03:00</updated>
   <id>http://dayvsonlima.github.io/</id>
   <author>
     <name><![CDATA[Dayvson Lima]]></name>
@@ -30,7 +30,7 @@
 
 <p>Como uma imagem vale mais que mil palavras, na figura abaixo fica clara a incompatibilidade de impedância entre as tabelas pedidos e itens do lado direito em relação ao objeto &ldquo;pedido&rdquo; a esquerda:</p>
 
-<p><img src="../images/pedido.png" width="500" alt="tabela de pedidos" /></p>
+<p><img src="http://dayvsonlima.github.io/images/pedido.png" width="500" alt="tabela de pedidos" /></p>
 
 <p>Daí você deve estar pensando: -Tá, mas qual o problema nisso?</p>
 
