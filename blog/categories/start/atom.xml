@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: start | Dayvson Lima]]></title>
-  <link href="http://dayvsonlima.com.br/blog/categories/start/atom.xml" rel="self"/>
-  <link href="http://dayvsonlima.com.br/"/>
-  <updated>2016-05-20T02:41:42-03:00</updated>
-  <id>http://dayvsonlima.com.br/</id>
+  <link href="http://dayvsonlima.github.io/blog/categories/start/atom.xml" rel="self"/>
+  <link href="http://dayvsonlima.github.io/"/>
+  <updated>2016-05-20T02:43:15-03:00</updated>
+  <id>http://dayvsonlima.github.io/</id>
   <author>
     <name><![CDATA[Dayvson Lima]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Git init]]></title>
-    <link href="http://dayvsonlima.com.br/blog/2016/05/20/git-init/"/>
+    <link href="http://dayvsonlima.github.io/blog/2016/05/20/git-init/"/>
     <updated>2016-05-20T00:54:00-03:00</updated>
-    <id>http://dayvsonlima.com.br/blog/2016/05/20/git-init</id>
+    <id>http://dayvsonlima.github.io/blog/2016/05/20/git-init</id>
     <content type="html"><![CDATA[<p>Olá, me chamo Dayvson Lima e este é o meu blog. Pretendo usar este espaço para compartilhar não só coisas sober programação que é minha especialidade, mas também qualquer outro assunto que eu achar interessante e que possa de alguma forma ajudar as pessoas que estarão lendo.</p>
 
 <p>Sinceramente não sei se este projeto dará certo, mas prometo que irei postar muita coisa boa! Então é só aguardar ;)</p>
