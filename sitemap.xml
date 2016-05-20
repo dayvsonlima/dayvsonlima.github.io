@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://dayvsonlima.github.io/blog/2016/05/20/voce-sabe-o-que-e-incompatibilidade-de-impedancia-banco-de-dados-parte-1/</loc>
+<lastmod>2016-05-20T03:00:36-03:00</lastmod>
+</url>
+<url>
 <loc>http://dayvsonlima.github.io/blog/2016/05/20/git-init/</loc>
 <lastmod>2016-05-20T00:54:00-03:00</lastmod>
 </url>
@@ -15,5 +19,8 @@
 </url>
 <url>
 <loc>http://dayvsonlima.github.io/blog/categories/start/</loc>
+</url>
+<url>
+<loc>http://dayvsonlima.github.io/blog/categories/banco-de-dados/</loc>
 </url>
 </urlset>

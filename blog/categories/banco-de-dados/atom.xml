@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Dayvson Lima]]></title>
-  <link href="http://dayvsonlima.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: banco de dados | Dayvson Lima]]></title>
+  <link href="http://dayvsonlima.github.io/blog/categories/banco-de-dados/atom.xml" rel="self"/>
   <link href="http://dayvsonlima.github.io/"/>
   <updated>2016-05-20T03:08:21-03:00</updated>
   <id>http://dayvsonlima.github.io/</id>
@@ -41,17 +41,6 @@
 <p>No próximo artigo desta série, irei abordar técnicas para diminuir ou até eliminar a incompatibilidade de impedância da sua aplicação.</p>
 
 <p>Se tiver qualquer dúvida, crítica ou sugestão, sinta-se à vontade para deixar um comentário :)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Git init]]></title>
-    <link href="http://dayvsonlima.github.io/blog/2016/05/20/git-init/"/>
-    <updated>2016-05-20T00:54:00-03:00</updated>
-    <id>http://dayvsonlima.github.io/blog/2016/05/20/git-init</id>
-    <content type="html"><![CDATA[<p>Olá, me chamo Dayvson Lima e este é o meu blog. Pretendo usar este espaço para compartilhar não só coisas sober programação que é minha especialidade, mas também qualquer outro assunto que eu achar interessante e que possa de alguma forma ajudar as pessoas que estarão lendo.</p>
-
-<p>Sinceramente não sei se este projeto dará certo, mas prometo que irei postar muita coisa boa! Então é só aguardar ;)</p>
 ]]></content>
   </entry>
   
